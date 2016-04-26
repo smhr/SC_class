@@ -14,6 +14,7 @@ S.Mohammad Hoseini-Rad
 * [Introduction to Modern Fortran](http://people.ds.cam.ac.uk/nmm1/Fortran/)
 * [Modern Fortran Programming for Chemists and Physicists](http://www.chem.helsinki.fi/~manninen/fortran2014/)
 * [Fortran Wiki](http://fortranwiki.org/fortran/show/HomePage)
+* [High Performance Scientific Computing](https://class.coursera.org/scicomp-002)
 
 ### Fortran history
 

@@ -2,3 +2,5 @@
 *.html
 build/
 *.out
+*.o
+*.exe
